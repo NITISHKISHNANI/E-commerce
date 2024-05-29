@@ -26,4 +26,4 @@ def showTables():
 
 
 
-![Image]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.almaya.ae%2Fblog-detail%2Fadvantages-of-supermarket-to-consumer&psig=AOvVaw3q4z-ot7gEKepOl7ml-Cxw&ust=1717053555422000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCug7apsoYDFQAAAAAdAAAAABAE
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.almaya.ae%2Fblog-detail%2Fadvantages-of-supermarket-to-consumer&psig=AOvVaw3q4z-ot7gEKepOl7ml-Cxw&ust=1717053555422000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCug7apsoYDFQAAAAAdAAAAABAE)
